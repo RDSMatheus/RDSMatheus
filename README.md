@@ -7,7 +7,7 @@ Sou estudante de Análise de Sistemas na UNINTER, tenho 27 anos e sou natural do
 
 ## Contato 📫
 - **Email:** [matheus_rds1998@hotmail.com](mailto:matheus_rds1998@hotmail.com)
-- **LinkedIn:** [Matheus Ramos](https://www.linkedin.com/in/matheus-r-d-s/)
+- **LinkedIn:** [Matheus Ramos](https://www.linkedin.com/in/matheusramos-dev/)
 
 ## Currículo
 Aqui você encontrará informações detalhadas sobre minha trajetória profissional, habilidades e experiências.

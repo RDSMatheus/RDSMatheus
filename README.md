@@ -9,13 +9,13 @@ Sou estudante de Análise de Sistemas na UNINTER, tenho 27 anos e sou natural do
 - **Email:** [matheus_rds1998@hotmail.com](mailto:matheus_rds1998@hotmail.com)
 - **LinkedIn:** [Matheus Ramos](https://www.linkedin.com/in/matheusramos-dev/)
 
-## Currículo
+## Currículo 📋 
 Aqui você encontrará informações detalhadas sobre minha trajetória profissional, habilidades e experiências.
 
-[Veja meu currículo aqui](https://portfolio-rdsmatheus-projects.vercel.app/matheus-ramos-curriculo.pdf)
+[Veja meu currículo aqui](https://www.matheusramos-dev.com.br/CurriculoMatheusRamos-Tecnologia.pdf)
 
-## Portfólio
-Visite meu site para ver meus projetos e trabalhos: [https://portfolio-rdsmatheus-projects.vercel.app](https://portfolio-rdsmatheus-projects.vercel.app)
+## Portfólio 📂
+Visite meu site para ver meus projetos e trabalhos: [https://www.matheusramos-dev.com.br](https://www.matheusramos-dev.com.br)
 
 ---
 ## Linguagens e Tecnologias 🤖

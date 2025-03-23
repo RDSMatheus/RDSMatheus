@@ -30,14 +30,5 @@ Visite meu site para ver meus projetos e trabalhos: [https://portfolio-rdsmatheu
 <img align="left" height="200" alt="Github stats" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDSMatheus&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rdsmatheus/rdsmatheus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rdsmatheus/rdsmatheus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rdsmatheus/rdsmatheus/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
